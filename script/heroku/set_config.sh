@@ -1,0 +1,1 @@
+heroku config:set PORT=9080 -a codeinvestigator-web
