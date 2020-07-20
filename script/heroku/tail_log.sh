@@ -1,1 +1,1 @@
-heroku logs --tail -a apppp
+heroku logs --tail -a mikes-heroku-demo1
