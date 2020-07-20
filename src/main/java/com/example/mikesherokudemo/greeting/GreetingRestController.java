@@ -10,4 +10,9 @@ public class GreetingRestController {
     public String hello(){
         return "Hello from heroku...";
     }
+
+    @GetMapping("/goodevening")
+    public String goodevening(){
+        return "Goodevening from Mikes Channel.";
+    }
 }
