@@ -1,1 +1,1 @@
-heroku config:set PORT=9080 -a codeinvestigator-web
+heroku config:set PORT=9080 -a mikes-heroku-demo1
